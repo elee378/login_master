@@ -31,7 +31,7 @@
 
 <br>
 <p id="lastLogin">You last logged in on <?php echo $_SESSION['users_timestamp']; ?>.</p>
-<div id="logoutButCon"><a href="phpscripts/caller.php?caller_id=logout" id="logoutBut">Log Out</a></div>
+<div id="logoutButtonCon"><a href="phpscripts/caller.php?caller_id=logout" id="logoutButton">Log Out</a></div>
 
 </body>
 </html>
