@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=xb8aad4MRx8
+http://phppot.com/php/php-login-script-with-session/
+https://dev.mysql.com/doc/refman/5.7/en/datetime.html
+https://www.experts-exchange.com/questions/25477393/php-block-login-for-15-minutes-after-3-failed-attempts.html
+https://www.w3schools.com/php/php_date.asp
+http://stackoverflow.com/questions/9293900/how-to-increment-integer-columns-value-by-1-in-sql
+http://stackoverflow.com/questions/7637791/how-can-i-show-the-last-login-date-and-time-that-user-logged-in-with-mysql
